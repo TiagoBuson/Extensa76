@@ -1,10 +1,10 @@
 ---
-title: Extensa
+title: Canto
 parent: Equipes
 has_children: false
-nav_order: 1
+nav_order: 7
 ---
 
-### 
+### Canto
 
 Teste teste

@@ -1,10 +1,10 @@
 ---
-title: Extensa
+title: Alavanca
 parent: Equipes
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
-### 
+### Alavanca
 
 Teste teste
