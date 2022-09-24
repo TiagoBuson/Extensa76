@@ -3,21 +3,21 @@
   dropdown:
     - name: Extensa
       link: /extensa/
-    - name: Vigilia
-      link: /vigilia/
-    - name: Alavanca
-      link: /alavanca/
-    - name: Missionaria
-      link: /missionaria/
-    - name: Espiruli
-      link: /espiruli/
-    - name: Animação
-      link: /animacao/
-    - name: Canto
-      link: /canto/
-    - name: Partilha
-      link: /partilha/
-    - name: Geral
-      link: /geral/
-- name: Como Rezar um Terço
-  link: /terco/
+#    - name: Vigilia
+#      link: /vigilia/
+#    - name: Alavanca
+#      link: /alavanca/
+#    - name: Missionaria
+#      link: /missionaria/
+#    - name: Espiruli
+#      link: /espiruli/
+#    - name: Animação
+#      link: /animacao/
+#    - name: Canto
+#      link: /canto/
+#    - name: Partilha
+#      link: /partilha/
+#    - name: Geral
+#      link: /geral/
+#- name: Como Rezar um Terço
+#  link: /terco/
