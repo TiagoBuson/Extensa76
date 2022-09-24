@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Equipes
-link: /equipes/
+nav_order: 2
+has_children: true
 ---
 
 ### Equipes
