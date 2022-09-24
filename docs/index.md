@@ -1,7 +1,7 @@
 ---
 title: Extensa 76
-subtitle: Site da Extensa
-layout: page
+has_children: false
+nav_order: 1
 ---
 
 # Bem vindo ao site da EXTENSA 76!!!

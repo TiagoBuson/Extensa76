@@ -1,4 +1,1 @@
-remote_theme: chrisrhymes/bulma-clean-theme
-show_sidebar: true
-fixed_navbar: top
-permalink: pretty
+remote_theme: just-the-docs/just-the-docs
