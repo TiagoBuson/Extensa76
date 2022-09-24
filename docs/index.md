@@ -2,7 +2,6 @@
 title: Extensa 76
 subtitle: Site da Extensa
 layout: page
-show_sidebar: true
 ---
 
 # Bem vindo ao site da EXTENSA 76!!!
