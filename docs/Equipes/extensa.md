@@ -1,5 +1,7 @@
 ---
+layout: gallery
 title: Extensa
-has_children: false
-nav_order: 1
+subtitle: Melhor Equipe
 ---
+
+### EXTENSAAA
