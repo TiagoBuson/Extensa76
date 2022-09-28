@@ -3,6 +3,7 @@ title: Extensa 76
 subtitle: Bem vindo!
 layout: page
 show_sidebar: false
+callouts: home_callouts
 ---
 
 ## Links importantes!
